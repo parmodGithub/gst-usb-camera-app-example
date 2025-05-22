@@ -1,0 +1,2 @@
+# gst-usb-camera-app-example
+Gstreamer Application for single USB Camera use-cases with different possible outputs
